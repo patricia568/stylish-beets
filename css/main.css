@@ -10,7 +10,14 @@ h1 {
 
 a {
   font-size: 1.125rem;
-  color: #3f1622;
+  color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
+  text-decoration: none;
+  line-height: 1.5
+}
+
+a:hover {
+  color:#3f1622
 }
 
 ol {
