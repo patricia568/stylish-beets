@@ -1,9 +1,18 @@
-body {
-  background-color: #c9b5ab
+html {
+  background-color: #c9b5ab;
 }
 
 h1 {
   font-size: 1.5rem;
   font-family: 'PT Sans', sans-serif;
-  color: #3f1622
+  color: #3f1622;
+}
+
+a {
+  font-size: 1.125rem;
+  color: #3f1622;
+}
+
+ol {
+  list-style-type: none;
 }
