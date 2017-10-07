@@ -8,6 +8,10 @@ h1 {
   color: #3f1622;
 }
 
+img {
+  width: 100%;
+}
+
 a {
   font-size: 1.125rem;
   color: #8f2440;
