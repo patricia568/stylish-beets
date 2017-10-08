@@ -17,7 +17,7 @@ a {
   color: #8f2440;
   font-family: 'PT Sans', sans-serif;
   text-decoration: none;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 a:hover {
@@ -33,7 +33,11 @@ figcaption {
   font-style: italic;
 }
 
-.second-p {
+.intro {
   font-weight: bold;
-  font-size: 1rem
+  font-size: 1rem;
+}
+
+.second-p {
+  font-size: 0.8rem;
 }
