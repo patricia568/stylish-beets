@@ -52,3 +52,7 @@ figcaption {
   font-style: italic;
   font-size: 0.8rem;
 }
+
+ul {
+  list-style-type: lower-greek;
+}
