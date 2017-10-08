@@ -68,3 +68,7 @@ figcaption {
 .pointone, .pointtwo, .pointthree, .pointfour {
   font-weight: bold;
 }
+
+dd {
+  text-indent: inherit;
+}
