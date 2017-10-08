@@ -22,7 +22,8 @@ a {
 }
 
 a:hover {
-  color:#3f1622
+  color:#3f1622;
+  text-decoration: underline;
 }
 
 ol {
@@ -47,14 +48,19 @@ figcaption {
 .fourthp {
   font-size: 1.5rem;
   font-style: italic;
-
+  text-indent: inherit;
 }
 
 .chrispratt {
   font-style: italic;
   font-size: 0.8rem;
+  text-indent: inherit;
 }
 
 ul {
   list-style-type: lower-greek;
+}
+
+.fifthp {
+  font-style: italic;
 }
