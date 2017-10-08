@@ -57,10 +57,14 @@ figcaption {
   text-indent: inherit;
 }
 
-ul {
+.one {
   list-style-type: lower-greek;
 }
 
 .fifthp {
   font-style: italic;
+}
+
+.pointone, .pointtwo, .pointthree, .pointfour {
+  font-weight: bold;
 }
